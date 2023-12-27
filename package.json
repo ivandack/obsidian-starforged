@@ -1,15 +1,15 @@
 {
-  "name": "obsidian-rodothulu",
-  "description": "Obsidian Vault de nuestra partida de La Llamada de Cthulhu.",
+  "name": "obsidian-starforged",
+  "description": "Obsidian Vault de nuestra partida de Starforged.",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "author": "Ivan Dackiewicz <ivandack@gmail.com>",
   "license": "MIT",
-  "homepage": "https://ivandack.github.io/obsidian-rodothulu/",
+  "homepage": "https://ivandack.github.io/obsidian-starforged/",
   "repository": {
     "type": "git",
-    "url": "/https://github.com/ivandack/obsidian-rodothulu.git"
+    "url": "/https://github.com/ivandack/obsidian-starforged.git"
   },
   "scripts": {
     "docs": "npx quartz build --serve -d docs",
