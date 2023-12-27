@@ -3,11 +3,12 @@ title: Starforged
 tags:
   - índice
 ---
-- [[Bestiario/index|Bestiario]]
-- [[Botín]]
 - [[Diario/index|Diario]]
-- [[Eventos/index|Eventos]]
+- [[Facciones/index|Facciones]]
 - [[Glosario/index|Glosario]]
+- [[NPC/index|NPCs]]
+- [[Ubicaciones/index|Ubicaciones]]
+- [[Verdades Universales]]
 - Personajes
 	- [[Gabin Valenus]]
 	- [[Andreíta Vermillion]]
