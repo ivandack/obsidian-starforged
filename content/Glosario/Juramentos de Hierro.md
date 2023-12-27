@@ -1,0 +1,1 @@
+Para la gente de [[La Forja]], un juramento de hierro es sagrado. Cuando sostienes un trozo de hierro y declaras tu promesa solemne de servir o ayudar a alguien, o de completar una misión personal, tu honor está vinculado a ese voto. Aquellos que emprenden estas misiones juradas se llaman [[Ironsworn]]. Abandonar o retractarse de un voto de hierro es el peor tipo de fracaso.

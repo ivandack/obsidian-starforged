@@ -1,0 +1,3 @@
+*Ya no tenemos acceso a sistemas informáticos avanzados. En cambio, debemos confiar en los videntes que llamamos [[Adepto|Adeptos]].* (Ver [[Verdades Universales#Inteligencia Artificial|Verdades Universales: Inteligencia Artificial]]).
+
+Los Adeptos son humanos entrenados para funcionar como computadoras biológicas. Estos son entrenados de forma extrema desde niños, sacrificando toda capacidad emocional para incrementar no solo sus impresionantes habilidades de cálculo y percepción, sino también un código ético basado en las leyes de la robótica que originalmente se usó con la Inteligencia Artificial. Esto hace que los Adeptos no sean capaces de ir en contra de sus lealtades por intereses propios... en teoría.

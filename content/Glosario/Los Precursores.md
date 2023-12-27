@@ -1,0 +1,1 @@
+Término general usado para referirse a las civilizaciones que se extinguieron en el pasado en [[La Forja]].

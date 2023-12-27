@@ -1,1 +1,0 @@
-Evento que intenta generar la [[Hermandad de la Bestia]].

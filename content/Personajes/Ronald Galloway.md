@@ -1,2 +1,0 @@
-Arqueólogo de la [[Universidad de Miskatonic]]. Obsesionado con el sacerdote [[Nophru-Ka]], está intentando encontrar su tumba.
-Lo conocimos cuando viajamos a Egipto buscando pistas sobre [[Nophru-Ka]] ([[Sesión 4]]).

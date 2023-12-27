@@ -1,0 +1,3 @@
+*Los votos de hierro se hacen sobre los restos de los barcos que llevaron a nuestra gente a [[La Forja]].* (Ver [[Verdades Universales#Hierro|Verdades Universales: Hierro]]).
+
+El Hierro Negro es un metal que fue usado en las naves del Éxodo (también llamadas [[Ironhomes]]). Pequeñas piezas de este metal son usados por los [[Ironsworn]] en forma de adornos para realizar sus [[Juramentos de Hierro]], antes los antepasados que arriesgaron todo para salvarnos.

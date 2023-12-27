@@ -1,1 +1,0 @@
-Arqueólogo feo.

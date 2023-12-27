@@ -1,0 +1,1 @@
+Grupo de gente que sigue la tradición de los [[Juramentos de Hierro]]. No son una religión, ni una comunidad. Es simplemente un grupo unido por una única tradición.

@@ -1,1 +1,0 @@
-![[monstruo_aguila.jpeg]]

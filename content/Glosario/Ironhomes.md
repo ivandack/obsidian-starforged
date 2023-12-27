@@ -1,0 +1,1 @@
+Naves gigantes en las que viajamos a [[La Forja]] en el [[Verdades Universales#Éxodo|Éxodo]].

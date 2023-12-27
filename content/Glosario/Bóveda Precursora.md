@@ -1,0 +1,1 @@
+Son espacios que contienen artefactos y tecnologías de [[Los Precursores]].
