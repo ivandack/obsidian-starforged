@@ -1,0 +1,2 @@
+Hijo de una pareja desconocida, posiblemente miembros de la [[Hermandad de la Bestia]]. Ofrecido por su familia a la hermandad, se lo envió temporalmente al [[Dr. Ambrose Cornwallise]], y posteriormente al [[Barón Hauptman]].
+La [[Hermandad de la Bestia|hermandad]] lo considera como [[El Niño]], de la [[Profecía de Nophru-Ka]].

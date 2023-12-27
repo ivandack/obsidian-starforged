@@ -1,0 +1,1 @@
+Criatura adorada por la [[Hermandad de la Bestia]].

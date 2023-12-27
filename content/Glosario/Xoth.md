@@ -1,0 +1,1 @@
+Estrella seguida por la [[Hermandad de la Bestia]] que parece profetizar la llegada de "el niño".

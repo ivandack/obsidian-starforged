@@ -1,0 +1,1 @@
+Secretario inglés. Su cuerpo fue el último en ser robado por el [[Barón Hauptman]].

@@ -1,0 +1,2 @@
+# Historia
+Hermana del [[Dr. Ambrose Cornwallise]], vive en la vieja [[Mansión Cornwallise]]. O vivía hasta tener un brote psicótico en donde constantemente intentaba preparar pollos para alimentar al "[[Ameba con cabeza de bebé de Boston|niño]]" (refiriéndose a [[Jeremy Cornwallise]], no [[Edward Chandler|Edward]], quien es referenciado así por la [[Hermandad de la Bestia]]).

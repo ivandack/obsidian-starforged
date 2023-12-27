@@ -1,0 +1,32 @@
+- Grabación: "*Los niños morirán. Es el rastro de la bestia. Boston.*"
+- Víctimas:
+	- Tom, Jerry, Snoopy, Don Gato
+	- Cuerpos con numerosas heridas por succión. Cubiertos de mucosa.
+- Periodista? Elton Martins
+- Mucosidad dejó un rastro hasta la mansión Conrwallise
+- Nota de Boston Globe
+	- Serie de asesinatos de niños en septiembre 1891, durante 2 semanas. [[Mansión Cornwallise]]. Principios de mes asesinato doble, murió [[Dr. Ambrose Cornwallise]] y su mujer [[Emily Cornwallise]].
+- [[Mansión Cornwallise]]
+	- Tiene tapial de 2,3mts. Única entrada decrépita.
+	- Torre al otro lado del muro.
+	- Hay luces.
+	- Jardín descuidado.
+	- Vive [[Sarah Cornwallise]] (vieja). Hermana de Ambrose (persona querida).
+	- El doctor y la señora se mataron mutuamente. Vivía cuando pasó el asesinato.
+- Pendejo: Ted.
+	- Estuvo en la mansión. Hace recados.
+	- Todas las semanas 7 pollos.
+- Nota en períodico
+	- 4 julio 1891, murió Jeremy, hijo del Dr Cornwallise. Está en la cripta familiar del cementerio All Hearts de Boston.
+	- 15 de septiembre fue el asesinato. Se piensa que la muerte de Jeremy fue el desencadenante. Cuerpos también en la cripta familiar.
+	- 16 noviembre 1891, saqueador fue detenido en el cementerio al intentar entrar en la cripta Cornwallise. Especulan que fue que fue robo, pero quería poner boca abajo al Dr, porque afirmaba que era un brujo.
+- Sarah Cornwallise:
+	- Vieja hermana de Ambrose. Se desmalla al escuchar "niño". Psycho que constantemente prepara comida para el niño.
+- Ambrose Cornwallise:
+	- Era un "brujo". Tenía un laboratorio alquímico.
+	- Era miembro de un culto.
+
+- Datos del [[Libro - Diario del Dr. Cornwallise|diario]] de Ambrose Cornwallise:
+	- 1890, Edwards vivió en la [[Mansión Cornwallise]] antes de la llegada de Hauptman. Cuando este vino, se llevó a Edward.
+	- 23 octubre 1890 hubo un incidente con la esposa y [[Gafas interdimencionales|las gafas]].
+	- Cornwallise narró al nacimiento de Jeremy 1891. Intentó mantenerlo con vida en una bañera del sotano.

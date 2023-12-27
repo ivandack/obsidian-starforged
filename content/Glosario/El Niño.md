@@ -1,0 +1,1 @@
+Niño profetizado que despertará a [[La Bestia]].

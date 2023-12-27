@@ -1,0 +1,1 @@
+Desconocida. Se hace mención en la primer carta del [[Barón Hauptman]] al [[Dr. Ambrose Cornwallise]] como "Alabada sea Shub-Niggurath".

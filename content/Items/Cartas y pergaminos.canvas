@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"type":"group","id":"d78c415412d364e5","x":-293,"y":400,"width":1246,"height":971,"label":"Sesión 3"},
+		{"type":"group","id":"c966a5cc8b205a59","x":-91,"y":-590,"width":811,"height":670,"label":"Sesión 2"},
+		{"type":"group","id":"9011aa1dc9e86dc9","x":-998,"y":-583,"width":722,"height":583,"label":"Sesión 1"},
+		{"type":"group","id":"298d1c54e245eb88","x":349,"y":533,"width":536,"height":745,"color":"6","label":"Pergamino en chino (traducido)"},
+		{"type":"group","id":"852c563812a04ddb","x":0,"y":-480,"width":660,"height":500,"color":"6","label":"Cartas de Hauptman a Cornwallise"},
+		{"type":"group","id":"71c6bb1b630700a2","x":-247,"y":572,"width":480,"height":540,"color":"4","label":"Pergamino en Drovosna"},
+		{"type":"group","id":"bad8518230409646","x":-640,"y":-480,"width":328,"height":446,"color":"3","label":"Carta de Paul Lemond"},
+		{"type":"file","file":"Imágenes/s01_carta_paul.jpg","id":"4cdf2b4b3ce4f77b","x":-617,"y":-474,"width":283,"height":400,"color":"3"},
+		{"type":"file","file":"Imágenes/s00_intro_articulo.jpeg","id":"65c8e178ff3fe5d4","x":-959,"y":-474,"width":283,"height":400,"color":"3"},
+		{"type":"file","file":"Imágenes/s02_carta_2.jpeg","id":"4115fc1ba14ed22a","x":37,"y":-420,"width":283,"height":400,"color":"6"},
+		{"type":"file","file":"Imágenes/s02_carta_1.jpeg","id":"9d526028e875f9cc","x":346,"y":-420,"width":283,"height":400,"color":"6"},
+		{"type":"file","file":"Personajes/Dr. Ambrose Cornwallise.md","id":"cd1bfc267b5fbc9a","x":960,"y":-820,"width":400,"height":346},
+		{"type":"file","file":"Personajes/Barón Hauptman.md","id":"19e3cd2d90873412","x":1040,"y":-420,"width":400,"height":400},
+		{"type":"file","file":"Items/Gafas interdimencionales.md","id":"55074c5b112d2b21","x":1040,"y":80,"width":400,"height":400},
+		{"type":"file","file":"Imágenes/s03_nota_chino_final.jpg","id":"3dca6d215ae0698d","x":425,"y":951,"width":400,"height":280,"color":"6"},
+		{"type":"file","file":"Imágenes/s03_nota_chino_final_traducida.jpg","id":"da13ee2d768177f2","x":425,"y":598,"width":400,"height":280,"color":"6"},
+		{"type":"file","file":"Imágenes/s03_pergamino_cura_2.jpg","id":"7b83df8b9cc5deeb","x":-207,"y":837,"width":400,"height":225,"color":"4"},
+		{"type":"file","file":"Imágenes/s03_pergamino_cura_1.jpg","id":"89d3001d9c717938","x":-207,"y":612,"width":400,"height":225,"color":"4"},
+		{"type":"file","file":"Lugares/Castillo Hauptman.md","id":"4691dbc96c7d119d","x":-933,"y":751,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"0b77f4716ec71966","fromNode":"3dca6d215ae0698d","fromSide":"top","toNode":"da13ee2d768177f2","toSide":"bottom"},
+		{"id":"35ec0a644360eb90","fromNode":"71c6bb1b630700a2","fromSide":"left","toNode":"4691dbc96c7d119d","toSide":"right"},
+		{"id":"3d3dc64222127ec1","fromNode":"852c563812a04ddb","fromSide":"right","toNode":"cd1bfc267b5fbc9a","toSide":"left"},
+		{"id":"f9739bb1c2cc29a8","fromNode":"852c563812a04ddb","fromSide":"right","toNode":"19e3cd2d90873412","toSide":"left"},
+		{"id":"efef53e4e2497577","fromNode":"852c563812a04ddb","fromSide":"right","toNode":"55074c5b112d2b21","toSide":"left"}
+	]
+}
